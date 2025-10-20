@@ -14,7 +14,7 @@ Tribute website honoring the Virgin Mary
 - **Tech:** HTML5, CSS3
 - **Features:** Responsive design, elegant layout, devotional content
 - **Purpose:** Celebrating Mary's role in salvation history through web design
-- - 🔗 [Live Demo](https://oliveiracle.github.io/first-project-maria/index.html)
+- 🔗 [Live Demo](https://oliveiracle.github.io/first-project-maria/index.html)
 
 ### 🌐 [The Word of God](https://github.com/oliveiracle/second-project-the-word-of-god)
 Interactive website offering comfort and hope through Bible verses
