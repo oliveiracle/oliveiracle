@@ -6,14 +6,13 @@ Creating meaningful applications that combine technology with purpose.
 > *"Whatever you do, work at it with all your heart, as working for the Lord"* - Colossians 3:23
 
 ---
-
 ## 💻 Featured Projects
 
-### 🌸 [First Project Maria](https://github.com/oliveiracle/first-project-maria)
-Tribute website honoring the Virgin Mary
+### 🌸 [MARIA | Wellness & Spa](https://github.com/oliveiracle/first-project-maria)
+Responsive website for a fictional high-end spa focused on serenity and elegance
 - **Tech:** HTML5, CSS3
-- **Features:** Responsive design, elegant layout, devotional content
-- **Purpose:** Celebrating Mary's role in salvation history through web design
+- **Features:** Responsive design, minimalist layout, "Quiet Luxury. Deep Presence" concept
+- **Purpose:** Peaceful digital experience showcasing curated spa treatments
 - 🔗 [Live Demo](https://oliveiracle.github.io/first-project-maria/index.html)
 
 ### 🌐 [The Word of God](https://github.com/oliveiracle/second-project-the-word-of-god)
@@ -28,8 +27,14 @@ Interactive terminal application exploring 25 pivotal moments in Jesus' life
 - **Tech:** Python 3.8+
 - **Features:** Search functionality, dictionary-based data structure, 1000+ lines of code
 - **Purpose:** Make biblical content accessible and engaging through terminal interface
-- - 🔗 [Live Demo](https://the-life-of-jesus-v2-45522819b886.herokuapp.com/)
+- 🔗 [Live Demo](https://the-life-of-jesus-v2-45522819b886.herokuapp.com/)
 
+### 🍸 [Street 66 Bar](https://github.com/oliveiracle/street66)
+Vintage-themed website for a dog-friendly cocktail bar in Dublin's Temple Bar
+- **Tech:** HTML5, CSS3, JavaScript, Google Maps API, Spotify API, PHP, SSL
+- **Features:** Interactive galleries, responsive design, 3,400+ lines of CSS, contact form
+- **Purpose:** Digital presence showcasing vintage atmosphere and pet-friendly culture
+- 🔗 [Live Demo](https://street66bar.ie/)
 ---
 
 ## 🛠️ Tech Stack
