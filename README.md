@@ -28,6 +28,7 @@ Interactive terminal application exploring 25 pivotal moments in Jesus' life
 - **Tech:** Python 3.8+
 - **Features:** Search functionality, dictionary-based data structure, 1000+ lines of code
 - **Purpose:** Make biblical content accessible and engaging through terminal interface
+- - 🔗 [Live Demo](https://the-life-of-jesus-v2-45522819b886.herokuapp.com/)
 
 ---
 
