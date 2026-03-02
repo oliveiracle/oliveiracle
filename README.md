@@ -102,8 +102,8 @@ I'm a **Full Stack Developer** from Brazil, based in **Dublin, Ireland**. Curren
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=oliveiracle&show_icons=true&theme=calm&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiracle&layout=compact&theme=calm&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=oliveiracle&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiracle&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
 
 </div>
 
