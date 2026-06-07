@@ -1,17 +1,13 @@
 <a href="https://github.com/oliveiracle">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3F50,6886BC&height=200&section=header&text=Cleino%20Frank&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Dublin%2C%20Ireland&descAlignY=58&descSize=18&descColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3F50,6886BC&height=200&section=header&text=Cleino%20Frank&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Dublin%2C%20Ireland&descAlignY=58&descSize=18&descColor=ffffff" />
 </a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C3F50&center=true&vCenter=true&width=500&lines=Building+with+purpose+%F0%9F%92%9A;Django+%7C+Python+%7C+PostgreSQL;Full+Stack+Developer+in+training;Faith+%7C+Code+%7C+Growth" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleino-frank-de-oliveira)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleinofrank@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleinofrank)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleinofrank@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oliveiracle)
-![Profile Views](https://komarev.com/ghpvc/?username=oliveiracle&style=for-the-badge&color=2C3F50)
+![Profile Views](https://komarev.com/ghpvc/?username=oliveiracle&style=for-the-badge&color=6886BC)
 
 </div>
 
@@ -21,22 +17,34 @@
 
 ```python
 class CleinoFrank:
-    location   = "Dublin, Ireland 🇮🇪"
-    origin     = "Brazil 🇧🇷"
-    education  = "Full Stack Development @ Code Institute"
-    looking_for = "Junior Full Stack Developer roles"
-    passion    = ["clean code", "mental health tech", "purposeful design"]
-    faith      = "Guided by faith, focused on growth 🙏"
-    quote      = "Whatever you do, work at it with all your heart. — Col 3:23"
+    location     = "Dublin, Ireland 🇮🇪"
+    origin       = "Brazil 🇧🇷"
+    education    = "Full Stack Development @ Code Institute"
+    looking_for  = "Junior Full Stack Developer roles (Remote / Home Office 🌍)"
+    passion      = ["clean code", "mental health tech", "purposeful design"]
+    remote_ready = True  # Available for fully remote work worldwide
+    faith        = "Guided by faith, focused on growth 🙏"
+    quote        = "Whatever you do, work at it with all your heart. — Col 3:23"
 ```
 
----
+> 💼 **Open to Remote & Home Office opportunities worldwide** — I am a motivated Full Stack Developer based in Dublin with hands-on experience in Python/Django, JavaScript, and responsive web design. I value purposeful work, clear communication, and building products that make a real difference.
+>
+> ---
+>
+> ## 🛠️ Tech Stack
+>
+> <div align="center">
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgres,php,js,html,css,bootstrap,git,github,heroku,vscode&perline=6)](https://skillicons.dev)
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 </div>
 
@@ -46,13 +54,13 @@ class CleinoFrank:
 
 <div align="center">
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🧠 **Mental Health Tracker** | Mood tracking, weekly trends & mental health resources. 46 tests, 98% coverage. | Django · PostgreSQL · Chart.js | [Live](https://mental-health-tracker-cleino-e2c27d0f57d7.herokuapp.com/) · [Repo](https://github.com/oliveiracle/mental-health-tracker) |
-| 🍸 **Street 66 Bar** | Production site for a cocktail bar in Temple Bar, Dublin. Google Maps & Spotify API. | JS · PHP · CSS | [street66bar.ie](https://street66bar.ie) |
-| ✝️ **The Life of Jesus** | Terminal app exploring 25 key moments in Jesus' life. Dictionary-based architecture. | Python | [Live](https://the-life-of-jesus-8c3f14f0c4c2.herokuapp.com/) |
-| 📖 **The Word of God** | Bible verse generator based on emotional state. Dual-palette UI. | HTML · CSS · JS | [Live](https://oliveiracle.github.io/the-word-of-god/) |
-| 💆 **MARIA Spa** | Minimalist site for a luxury wellness centre. Mobile-first design. | HTML · CSS | [Repo](https://github.com/oliveiracle/maria-spa) |
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| 🧠 **Mental Health Tracker** | Mood tracking app with weekly trends, 46 automated tests & 98% coverage. Deployed on Heroku. | Django · PostgreSQL · Chart.js | [Live](https://mental-health-tracker-cleino-e2c27d0f57d7.herokuapp.com/) · [Repo](https://github.com/oliveiracle/mental-health-tracker) |
+| 🍸 **Street 66 Bar** | Production website for a real cocktail bar in Temple Bar, Dublin. Integrates Google Maps & Spotify API. | JS · PHP · CSS | [street66bar.ie](https://street66bar.ie) |
+| ✝️ **The Life of Jesus** | Terminal app exploring 25 key moments in Jesus' life. Dictionary-based architecture. Clean Python. | Python | [Live](https://the-life-of-jesus-cli-v2-8a91f42cc5af.herokuapp.com/) |
+| 📖 **The Word of God** | Bible verse generator based on emotional state. Dual-palette responsive UI. | HTML · CSS · JS | [Live](https://oliveiracle.github.io/second-project-the-word-of-god/) |
+| 💆 **MARIA Spa** | Minimalist responsive site for a luxury wellness centre. Mobile-first design. | HTML · CSS | [Repo](https://github.com/oliveiracle/first-project-maria) |
 
 </div>
 
@@ -62,12 +70,7 @@ class CleinoFrank:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oliveiracle&show_icons=true&theme=calm&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiracle&layout=compact&theme=calm&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiracle&theme=calm&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=oliveiracle&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 </div>
 
@@ -77,23 +80,35 @@ class CleinoFrank:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=django,python,docker,aws&perline=4)](https://skillicons.dev)
+![Django](https://skillicons.dev/icons?i=django)
+![Python](https://skillicons.dev/icons?i=python)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
 
-`Django REST APIs` · `Data Structures & Algorithms` · `CI/CD` · `Advanced Python`
+**Django REST APIs · Data Structures & Algorithms · CI/CD · Docker · AWS · Advanced Python**
 
 </div>
 
 ---
 
-<div align="center">
+## 🌍 Remote Work Ready
 
-**Open to junior full-stack roles in Dublin or remote.**
-**Let's build something meaningful together. 💚**
+- ✅ Strong self-management and communication skills
+- - ✅ Comfortable working across time zones
+  - - ✅ Experience with Git-based asynchronous collaboration
+    - - ✅ Motivated, disciplined and outcome-focused
+      - - ✅ Available for full-time or contract remote positions
+       
+        - ---
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleino-frank-de-oliveira)
+        <div align="center">
 
-</div>
+        **Open to junior full-stack roles in Dublin or fully remote. Let's build something meaningful together. 💚**
 
-<a href="https://github.com/oliveiracle">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3F50,6886BC&height=120&section=footer" />
-</a>
+        [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cleinofrank)
+
+        </div>
+
+        <a href="https://github.com/oliveiracle">
+          <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3F50,6886BC&height=100&section=footer" />
+        </a>a>
